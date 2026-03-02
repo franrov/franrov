@@ -24,5 +24,4 @@ coming soon....
 
 ## 📫 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/franrov)
-- Email: francisco.a.rovira1@gmail.com
+- Email: <francisco.a.rovira1@gmail.com>
