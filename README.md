@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm Francisco 👋
 
-<!--
-**franrov/franrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer Intern at **Granicus** · CS & Engineering @ **UPRM** · Based in Puerto Rico 🇵🇷
 
-Here are some ideas to get you started:
+I like building things that make people's lives easier. Right now I'm focused on front-end development, UX, and shipping software that actually matters.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I work with
+
+- **Languages:** C#, JavaScript, SQL
+- **Frameworks & Tools:** .NET, ASP.NET MVC, Entity Framework, Bootstrap 5, Git
+- **Data:** SQL Server, SSMS
+- **Design:** Figma
+
+## 🚀 Projects
+
+<!-- Coming soon... -->
+coming soon....
+
+## 🎯 What I'm up to
+
+- Building internal tools at Granicus with .NET
+- Learning UI/UX design to bridge the gap between code and user experience
+- Working towards building my own product
+
+## 📫 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/franrov)
+- Email: francisco.a.rovira1@gmail.com
